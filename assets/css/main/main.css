@@ -718,14 +718,9 @@ ul.no-icon-list li {
 }
 .button-3d.button-pasific {
 	color: #fff;
-	-webkit-box-shadow: 0 5px 0 #ee3135;
+	/*-webkit-box-shadow: 0 5px 0 #ee3135;
 	   -moz-box-shadow: 0 5px 0 #ee3135;
-			box-shadow: 0 5px 0 #ee3135;
-}
-.button-3d:hover.button-pasific {
-	-webkit-box-shadow: 0 3px 0 #ee3135;
-	   -moz-box-shadow: 0 3px 0 #ee3135;
-			box-shadow: 0 3px 0 #ee3135;
+			box-shadow: 0 5px 0 #ee3135;*/
 }
 .button-o.button-pasific {
 	background: transparent !important;
