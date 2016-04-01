@@ -1753,7 +1753,7 @@ table th.bg-pasific {
 }
 .testimonial .testimonial-header img {
     width: 60px;
-    height: 60px;
+    height: 70px;
 }
 
 .testimonial .testimonial-body p {
@@ -4206,4 +4206,11 @@ ul.pagination.pagination-pasific li.active a {
 
 #welcome img {
   max-width: 100%;
+}
+
+ul.product-list {
+  list-style: disc;
+  margin-left: 18px;
+  line-height: 20px;
+  font-size: 14px;
 }
