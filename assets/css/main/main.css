@@ -4059,7 +4059,6 @@ ul.pagination.pagination-pasific li.active a {
     float: left;
     background-color: rgba(255,255,255,.9);
     padding: 20px 20px 40px 20px;
-    border-bottom: 10px solid #ddd;
     -webkit-border-radius: 5px;
        -moz-border-radius: 5px;
             border-radius: 5px;
